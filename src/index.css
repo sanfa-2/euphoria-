@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.swiper-pagination {
+  margin-bottom: 40px;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  margin: 0 25px;
+  color: #ffffff !important;
+}
+.swiper-pagination-bullet {
+  width: 62px !important;
+  height: 10px !important;
+  border-radius: 10px 0 0 10px !important;
+  background-color: #ffffff !important;
+}
+.swiper-pagination-bullet:nth-child(2) {
+  transform: scaleX(-1) !important;
+}
+
+.first-slider {
+}
+
+.first-slider .slick-slide {
+  margin: 0;
+}
+.first-slider .slick-slide > div {
+}
+
+.first-slider.slick-dots li button:before {
+  font-size: 12px;
+  color: #bebcbd;
+}
+
+.second-slider .slick-slide {
+  box-sizing: border-box;
+}
+
+.first-slider .slick-slide > div {
+  width: 80%;
+  margin: 0 auto;
+}
+.second-slider .slick-slide:nth-child(2n) {
+}
+
+.second-slider .slick-dots {
+  bottom: -41px !important;
+}
+
+.second-slider .slick-dots li button:before {
+  font-size: 12px;
+  color: #bebcbd;
+}
+
+.second-slider .slick-dots li.slick-active button:before {
+  color: #3c4242 !important;
+  opacity: 10 !important;
+}
+
+.second-slider .slick-dots li {
+  padding: 0px;
+  margin: 0;
+}
+
+.second-slider .custom-dot {
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+  border-radius: 50%;
+}
+
+@media (max-width: 768px) {
+  .second-slider .slick-slide {
+    padding: 10px;
+  }
+}
+@media (max-width: 480px) {
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none !important;
+  }
+}

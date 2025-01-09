@@ -1,0 +1,597 @@
+{
+  "newarival": [
+    {
+      "id": 1,
+      "title": "Knitted Joggers",
+      "image": "/assets/img-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Full Sleeve",
+      "image": "/assets/img-3.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Active T-Shirts",
+      "image": "/assets/img-4.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Urban Shirts",
+      "image": "/assets/img-2.jpg"
+    }
+  ],
+  "categoriesformen": [
+    {
+      "id": 5,
+      "image": "/assets/img-5.jpg",
+      "title": "shirt"
+    },
+    {
+      "id": 6,
+      "image": "/assets/img-6.jpg",
+      "title": "Printed T-Shirts"
+    },
+    {
+      "id": 7,
+      "image": "/assets/img-7.jpg",
+      "title": "Plain T-Shirt"
+    },
+    {
+      "id": 8,
+      "image": "/assets/img-8.jpg",
+      "title": "Polo T-Shirt"
+    },
+    {
+      "id": 9,
+      "image": "/assets/img-9.jpg",
+      "title": "Hoodies & Sweetshirt"
+    },
+    {
+      "id": 10,
+      "image": "/assets/img-10.jpg",
+      "title": "Jeans"
+    },
+    {
+      "id": 11,
+      "image": "/assets/img-01.jpeg",
+      "title": "Activewear"
+    },
+    {
+      "id": 12,
+      "image": "/assets/img-11.jpg",
+      "title": "Boxers"
+    }
+  ],
+  "categoriesforwomen": [
+    {
+      "id": 13,
+      "image": "/assets/img-12.jpg",
+      "title": "Hoodies & Sweetshirt"
+    },
+    {
+      "id": 14,
+      "image": "/assets/img-13.jpg",
+      "title": "Coats & Parkas"
+    },
+    {
+      "id": 15,
+      "image": "/assets/img-14.jpg",
+      "title": "Tees & T-Shirt"
+    },
+    {
+      "id": 16,
+      "image": "/assets/img-15.jpg",
+      "title": "Boxers"
+    }
+  ],
+  "limelight": [
+    {
+      "id": 17,
+      "image": "/assets/img-16.jpg",
+      "title": "Black Sweatshirt with ....",
+      "brand": "Jhanvi’s  Brand",
+      "price": 123.0
+    },
+    {
+      "id": 18,
+      "image": "/assets/img-17.jpg",
+      "title": "line Pattern Black H...",
+      "brand": "AS’s  Brand",
+      "price": 37.0
+    },
+    {
+      "id": 19,
+      "image": "/assets/img-18.jpg",
+      "title": "Black Shorts",
+      "brand": "MM’s  Brand",
+      "price": 37.0
+    },
+    {
+      "id": 20,
+      "image": "/assets/img-19.jpg",
+      "title": "Levender Hoodie with ....",
+      "brand": "Nike’s  Brand",
+      "price": 119.0
+    }
+  ],
+
+  "similarproducts": [
+    {
+      "id": 21,
+      "image": "/assets/img-20.jpg",
+      "title": "White T-Shirt",
+      "brand": "Priya’s  Brand",
+      "price": 13.0
+    },
+    {
+      "id": 22,
+      "image": "/assets/img-22.jpg",
+      "title": "Dark Green Sweatshirt....",
+      "brand": "Roboto’s  Brand",
+      "price": 127.0
+    },
+    {
+      "id": 23,
+      "image": "/assets/img-23.jpg",
+      "title": "Levender Sweatshirt ....",
+      "brand": "Jhanvi’s  Brand",
+      "price": 133.0
+    },
+    {
+      "id": 24,
+      "image": "/assets/img-24.jpg",
+      "title": "Urban jacket with white ....",
+      "brand": "Sagar’s  Brand",
+      "price": 79.0
+    }
+  ],
+  "productdetails": [
+    {
+      "id": 1,
+      "category": "men",
+      "image": "/assets/img-1.jpg",
+      "title": "Knitted Joggers",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "women",
+      "title": "Full Sleeve",
+      "image": "/assets/img-3.jpg",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "men",
+      "title": "Active T-Shirts",
+      "image": "/assets/img-4.jpg",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Urban Shirts",
+      "image": "/assets/img-2.jpg",
+      "category": "women",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "image": "/assets/img-5.jpg",
+      "title": "shirt",
+      "category": "men",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "image": "/assets/img-6.jpg",
+      "title": "Printed T-Shirts",
+      "category": "men",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "image": "/assets/img-7.jpg",
+      "title": "Plain T-Shirt",
+      "category": "men",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "image": "/assets/img-8.jpg",
+      "title": "Polo T-Shirt",
+      "category": "men",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "image": "/assets/img-9.jpg",
+      "title": "Hoodies & Sweetshirt",
+      "category": "men",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "image": "/assets/img-10.jpg",
+      "title": "Jeans",
+      "category": "men",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "image": "/assets/img-01.jpeg",
+      "title": "Activewear",
+      "category": "men",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "image": "/assets/img-11.jpg",
+      "title": "Boxers",
+      "category": "men",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "image": "/assets/img-12.jpg",
+      "title": "Hoodies & Sweetshirt",
+      "category": "womens",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "image": "/assets/img-13.jpg",
+      "title": "Coats & Parkas",
+      "category": "womens",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "image": "/assets/img-14.jpg",
+      "title": "Tees & T-Shirt",
+      "category": "womens",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "image": "/assets/img-15.jpg",
+      "title": "Boxers",
+      "category": "womens",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "image": "/assets/img-16.jpg",
+      "title": "Raven Hoodie With Black colored Design",
+      "category": "womens",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 123,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "womens",
+      "image": "/assets/img-17.jpg",
+      "title": "line Pattern Black",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 37.0,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "image": "/assets/img-18.jpg",
+      "title": "line Pattern Black",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 37.0,
+      "category": "womens",
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "womens",
+      "image": "/assets/img-23.jpg",
+      "title": "line Pattern Black",
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "price": 37.0,
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "image": "/assets/img-20.jpg",
+      "title": "White T-Shirt",
+      "brand": "Priya’s  Brand",
+      "price": 13.0,
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "category": "womens",
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "image": "/assets/img-22.jpg",
+      "title": "Dark Green Sweatshirt....",
+      "brand": "Roboto’s  Brand",
+      "price": 127.0,
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "category": "womens",
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "image": "/assets/img-23.jpg",
+      "title": "Levender Sweatshirt ....",
+      "brand": "Jhanvi’s  Brand",
+      "price": 133.0,
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "category": "womens",
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "image": "/assets/img-24.jpg",
+      "title": "Urban jacket with white ....",
+      "brand": "Sagar’s  Brand",
+      "price": 79.0,
+      "rating": 3.5,
+      "comments": 120,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["#3C4242", "#EDD146", "#EB84B0", "#9C1F35"],
+      "category": "womens",
+      "images": [
+        "/assets/img-25.jpg",
+        "/assets/img-16.jpg",
+        "/assets/img-26.jpg"
+      ]
+    }
+  ],
+  "feedback": [
+    {
+      "id": 1,
+      "image": "/assets/span-1.svg",
+      "name": "Floyd Miles",
+      "rating": 3.5,
+      "comment": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+    },
+    {
+      "id": 2,
+      "image": "/assets/span-2.svg",
+      "name": "Ronald Richards",
+      "rating": 4,
+      "comment": "ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+    },
+    {
+      "id": 3,
+      "image": "/assets/span-3.svg",
+      "name": "Savannah Nguyen",
+      "rating": 3.5,
+      "comment": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+    },
+    {
+      "id": 4,
+      "image": "/assets/span-3.svg",
+      "name": "Savannah Nguyen",
+      "rating": 3,
+      "comment": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+    },
+    {
+      "id": 5,
+      "image": "/assets/span-3.svg",
+      "name": "Savannah Nguyen",
+      "rating": 3,
+      "comment": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+    },
+    {
+      "id": 6,
+      "image": "/assets/span-3.svg",
+      "name": "Savannah Nguyen",
+      "rating": 3,
+      "comment": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+    },
+    {
+      "id": 7,
+      "image": "/assets/span-3.svg",
+      "name": "Savannah Nguyen",
+      "rating": 3,
+      "comment": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+    },
+    {
+      "id": 8,
+      "image": "/assets/span-3.svg",
+      "name": "Savannah Nguyen",
+      "rating": 3,
+      "comment": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet."
+    }
+  ]
+}
